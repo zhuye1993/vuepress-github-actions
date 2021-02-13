@@ -10,19 +10,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/im/vuepress-github-actions.git"
+    "url": "git+https://github.com/zhuye1993/vuepress-github-actions.git"
   },
   "keywords": [
     "github pages",
     "gh-pages",
     "github actions"
   ],
-  "author": "tangxiaomi",
+  "author": "zhuye",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/im/vuepress-github-actions/issues"
+    "url": "https://github.com/zhuye1993/vuepress-github-actions/issues"
   },
-  "homepage": "https://github.com/im/vuepress-github-actions#readme",
+  "homepage": "https://github.com/zhuye1993/vuepress-github-actions#readme",
   "devDependencies": {
     "vuepress": "^1.1.0"
   }
